@@ -26,3 +26,5 @@ A simple and responsive currency converter built using **React**. This app allow
 ```bash
 git clone https://github.com/AnkitKumar666/React-CurrencyConverter.git
 cd currency-converter
+```
+
