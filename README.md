@@ -31,4 +31,5 @@ cd currency-converter
 ```bash
 npm install
 npm run dev
+```
 
