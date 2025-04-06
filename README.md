@@ -29,5 +29,6 @@ cd currency-converter
 ```
 2. **Install and Run Command**
 ```bash
-npm start
+npm install
+npm run dev
 
