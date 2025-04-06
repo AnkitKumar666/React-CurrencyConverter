@@ -28,4 +28,6 @@ git clone https://github.com/AnkitKumar666/React-CurrencyConverter.git
 cd currency-converter
 ```
 2. **Install and Run Command**
+```bash
+npm start
 
