@@ -27,4 +27,5 @@ A simple and responsive currency converter built using **React**. This app allow
 git clone https://github.com/AnkitKumar666/React-CurrencyConverter.git
 cd currency-converter
 ```
+2. **Install and Run Command**
 
